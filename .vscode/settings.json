@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "gst_ios_init.h": "c",
+        "string.h": "c",
+        "string": "c",
+        "select_device.h": "c",
+        "vector": "cpp",
+        "native_binding.h": "c",
+        "jni.h": "c",
+        "__locale": "c"
+    }
+}

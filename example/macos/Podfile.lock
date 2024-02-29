@@ -1,0 +1,28 @@
+PODS:
+  - FlutterMacOS (1.0.0)
+  - native_binding (0.0.1):
+    - FlutterMacOS
+  - texture_rgba_renderer (0.0.1):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - native_binding (from `Flutter/ephemeral/.symlinks/plugins/native_binding/macos`)
+  - texture_rgba_renderer (from `Flutter/ephemeral/.symlinks/plugins/texture_rgba_renderer/macos`)
+
+EXTERNAL SOURCES:
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  native_binding:
+    :path: Flutter/ephemeral/.symlinks/plugins/native_binding/macos
+  texture_rgba_renderer:
+    :path: Flutter/ephemeral/.symlinks/plugins/texture_rgba_renderer/macos
+
+SPEC CHECKSUMS:
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  native_binding: 05bd41fa712344e3af7843b37218e81f4c833550
+  texture_rgba_renderer: cbed959a3c127122194a364e14b8577bd62dc8f2
+
+PODFILE CHECKSUM: 236401fc2c932af29a9fcf0e97baeeb2d750d367
+
+COCOAPODS: 1.11.2

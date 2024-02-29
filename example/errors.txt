@@ -1,0 +1,1947 @@
+
+Building macOS application...                                   
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:macOS, arch:arm64, id:00006000-000C10142ED8801E }
+{ platform:macOS, arch:x86_64, id:00006000-000C10142ED8801E }
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib.h:34:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib/gasyncqueue.h:34:
+/Library/Frameworks/GStreamer.framework/Headers/glib/gthread.h:62:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/glib/gthread.h:69:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/glib/gthread.h:76:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/glib/gthread.h:83:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/glib/gthread.h:91:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib.h:52:
+/Library/Frameworks/GStreamer.framework/Headers/glib/ghash.h:49:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib.h:56:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib/giochannel.h:35:
+/Library/Frameworks/GStreamer.framework/Headers/glib/gmain.h:33:14: warning: not a Doxygen trailing comment [-Wdocumentation]
+typedef enum /*< flags >*/
+             ^~~
+             /**<
+/Library/Frameworks/GStreamer.framework/Headers/glib/gmain.h:57:14: warning: not a Doxygen trailing comment [-Wdocumentation]
+typedef enum /*< flags >*/
+             ^~~
+             /**<
+/Library/Frameworks/GStreamer.framework/Headers/glib/gmain.h:263:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/glib/gmain.h:314:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib.h:56:
+/Library/Frameworks/GStreamer.framework/Headers/glib/giochannel.h:102:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib.h:64:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib/gmessages.h:38:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib/gvariant.h:30:
+/Library/Frameworks/GStreamer.framework/Headers/glib/gvarianttype.h:376:1: warning: not a Doxygen trailing comment [-Wdocumentation]
+/*< private >*/
+^~~
+/**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib.h:64:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib/gmessages.h:38:
+/Library/Frameworks/GStreamer.framework/Headers/glib/gvariant.h:272:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/glib/gvariant.h:301:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/glib/gvariant.h:450:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib.h:66:
+/Library/Frameworks/GStreamer.framework/Headers/glib/goption.h:227:41: warning: duplicated command '@short' [-Wdocumentation]
+ *     `-short_name` in a commandline. @short_name must be  a printable
+                                       ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ * @short_name: If an option has a short name, it can be specified
+   ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib.h:78:
+/Library/Frameworks/GStreamer.framework/Headers/glib/gscanner.h:109:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/glib/gscanner.h:167:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/glib/gscanner.h:201:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/glib/gscanner.h:210:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib.h:88:
+/Library/Frameworks/GStreamer.framework/Headers/glib/gtestutils.h:637:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib.h:97:
+/Library/Frameworks/GStreamer.framework/Headers/glib/guri.h:277:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib.h:114:
+/Library/Frameworks/GStreamer.framework/Headers/glib/deprecated/gthread.h:50:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/glib/deprecated/gthread.h:161:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/glib/deprecated/gthread.h:202:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/glib/deprecated/gthread.h:244:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:31:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstenumtypes.h:6:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib-object.h:24:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gobject/gbinding.h:31:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gobject/gobject.h:26:
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtype.h:428:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtype.h:438:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtype.h:448:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtype.h:475:1: warning: not a Doxygen trailing comment [-Wdocumentation]
+/*< protected >*/
+^~~
+/**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtype.h:699:14: warning: not a Doxygen trailing comment [-Wdocumentation]
+typedef enum    /*< skip >*/
+                ^~~
+                /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtype.h:818:5: warning: '@class' command should not be used in a comment attached to a non-class declaration [-Wdocumentation]
+ * @class_data: The @class_data member supplied via the #GTypeInfo structure.
+   ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtype.h:923:5: warning: '@class' command should not be used in a comment attached to a non-class declaration [-Wdocumentation]
+ * @class_data: The @class_data member supplied via the #GTypeInfo structure
+   ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtype.h:962:22: warning: '@interface' command should not be used in a comment attached to a non-interface declaration [-Wdocumentation]
+ * @iface_data: The @interface_data supplied via the #GInterfaceInfo structure
+                    ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtype.h:978:22: warning: '@interface' command should not be used in a comment attached to a non-interface declaration [-Wdocumentation]
+ * @iface_data: The @interface_data supplied via the #GInterfaceInfo structure
+                    ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtype.h:1033:17: warning: not a Doxygen trailing comment [-Wdocumentation]
+typedef enum    /*< skip >*/
+                ^~~
+                /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtype.h:1055:17: warning: not a Doxygen trailing comment [-Wdocumentation]
+typedef enum    /*< skip >*/
+                ^~~
+                /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtype.h:1127:5: warning: '@interface' command should not be used in a comment attached to a non-interface declaration [-Wdocumentation]
+ * @interface_init: location of the interface initialization function
+   ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtype.h:1128:5: warning: '@interface' command should not be used in a comment attached to a non-interface declaration [-Wdocumentation]
+ * @interface_finalize: location of the interface finalization function
+   ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtype.h:1129:5: warning: '@interface' command should not be used in a comment attached to a non-interface declaration [-Wdocumentation]
+ * @interface_data: user-supplied data passed to the interface init/finalize functions
+   ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtype.h:2465:1: warning: not a Doxygen trailing comment [-Wdocumentation]
+/*< private >*/
+^~~
+/**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:31:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstenumtypes.h:6:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib-object.h:24:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gobject/gbinding.h:31:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gobject/gobject.h:27:
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gvalue.h:115:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:31:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstenumtypes.h:6:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib-object.h:24:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gobject/gbinding.h:31:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gobject/gobject.h:28:
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gparam.h:226:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gparam.h:275:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:31:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstenumtypes.h:6:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib-object.h:24:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gobject/gbinding.h:31:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gobject/gobject.h:29:
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gclosure.h:106:5: warning: '@return' command used in a comment that is attached to a function returning void [-Wdocumentation]
+ * @return_value: (nullable): a #GValue to store the return
+   ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gclosure.h:109:45: warning: parameter '_values' not found in the function declaration [-Wdocumentation]
+ * @n_param_values: the length of the @param_values array
+                                            ^~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gclosure.h:110:10: warning: parameter '_values:' not found in the function declaration [-Wdocumentation]
+ * @param_values: (array length=n_param_values): an array of
+         ^~~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gclosure.h:131:5: warning: '@return' command used in a comment that is attached to a function returning void [-Wdocumentation]
+ * @return_value: (nullable): a #GValue to store the return
+   ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gclosure.h:140:39: warning: parameter '_types' not found in the function declaration [-Wdocumentation]
+ * @n_params: the length of the @param_types array
+                                      ^~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gclosure.h:141:10: warning: parameter '_types:' not found in the function declaration [-Wdocumentation]
+ * @param_types: (array length=n_params): the #GType of each argument from
+         ^~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gclosure.h:159:5: warning: '@callback' command should be used in a comment attached to a pointer to function declaration [-Wdocumentation]
+ * @callback: the callback function
+   ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gclosure.h:183:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gclosure.h:193:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gclosure.h:195:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gclosure.h:199:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/       void   (*marshal)  (GClosure       *closure,
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gclosure.h:205:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/     gpointer data;
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gclosure.h:207:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/       GClosureNotifyData *notifiers;
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:31:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstenumtypes.h:6:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib-object.h:24:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gobject/gbinding.h:31:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gobject/gobject.h:30:
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gsignal.h:61:10: warning: parameter '_values:' not found in the function declaration [-Wdocumentation]
+ * @param_values: (array length=n_param_values): the instance on which
+         ^~~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gsignal.h:254:5: warning: '@return' command used in a comment that is not attached to a function or method declaration [-Wdocumentation]
+ * @return_type: The return type for user callbacks.
+   ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gsignal.h:256:5: warning: '@param' command used in a comment that is not attached to a function declaration [-Wdocumentation]
+ * @param_types: (array length=n_params): The individual parameter types for
+    ^~~~~~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gsignal.h:259:6: warning: '@return' command used in a comment that is not attached to a function or method declaration [-Wdocumentation]
+ *  @return_type callback (#gpointer     data1,
+    ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gsignal.h:640:1: warning: not a Doxygen trailing comment [-Wdocumentation]
+/*< private >*/
+^~~
+/**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:31:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstenumtypes.h:6:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib-object.h:24:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gobject/gbinding.h:31:
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gobject.h:271:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gobject.h:341:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gobject.h:344:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gobject.h:371:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gobject.h:664:1: warning: not a Doxygen trailing comment [-Wdocumentation]
+/*< protected >*/
+^~~
+/**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gobject.h:936:5: warning: not a Doxygen trailing comment [-Wdocumentation]
+    /*<private>*/
+    ^~~~~~~~~~
+    /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:31:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstenumtypes.h:6:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib-object.h:24:
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gbinding.h:99:16: warning: not a Doxygen trailing comment [-Wdocumentation]
+typedef enum { /*< prefix=G_BINDING >*/
+               ^~~
+               /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:31:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstenumtypes.h:6:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib-object.h:27:
+/Library/Frameworks/GStreamer.framework/Headers/gobject/genums.h:161:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/  
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/genums.h:182:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/  
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:31:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstenumtypes.h:6:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib-object.h:31:
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gparamspecs.h:944:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gparamspecs.h:984:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:31:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstenumtypes.h:6:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib-object.h:36:
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtypemodule.h:58:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtypemodule.h:76:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtypemodule.h:80:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:31:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstenumtypes.h:6:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib-object.h:37:
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtypeplugin.h:74:5: warning: '@interface' command should not be used in a comment attached to a non-interface declaration [-Wdocumentation]
+ * @interface_type: the #GType of the interface whose info is completed
+   ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtypeplugin.h:105:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gtypeplugin.h:108:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:31:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstenumtypes.h:6:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/glib-object.h:38:
+/Library/Frameworks/GStreamer.framework/Headers/gobject/gvaluearray.h:56:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:222:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstobject.h:175:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/ /* with LOCK */
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstobject.h:181:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstobject.h:205:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstobject.h:208:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:222:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstobject.h:280:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstcontrolbinding.h:49:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstcontrolsource.h:30:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstclock.h:396:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstclock.h:414:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstclock.h:469:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstclock.h:485:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstclock.h:564:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:222:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstobject.h:280:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstcontrolbinding.h:49:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstcontrolsource.h:106:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstcontrolsource.h:110:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstcontrolsource.h:125:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:222:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstobject.h:280:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstcontrolbinding.h:68:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstcontrolbinding.h:72:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstcontrolbinding.h:83:7: warning: not a Doxygen trailing comment [-Wdocumentation]
+      /*< private >*/
+      ^~~
+      /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstcontrolbinding.h:86:5: warning: not a Doxygen trailing comment [-Wdocumentation]
+    /*< private >*/
+    ^~~
+    /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstcontrolbinding.h:102:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstcontrolbinding.h:158:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:70:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbuffer.h:27:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstminiobject.h:213:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/ /* with COW */
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:70:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbuffer.h:29:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstallocator.h:26:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstmemory.h:219:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstmemory.h:222:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:70:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbuffer.h:29:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstallocator.h:80:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstallocator.h:117:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstallocator.h:128:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstallocator.h:145:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstallocator.h:150:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:70:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbuffer.h:30:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstcaps.h:25:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gststructure.h:113:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:70:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbuffer.h:30:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstcaps.h:300:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstcaps.h:304:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:70:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbuffer.h:39:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstmeta.h:134:11: warning: parameter ':' not found in the function declaration [-Wdocumentation]
+ * @params: parameters passed to the init function
+          ^
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:70:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbuffer.h:286:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/ /* with COW */
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbuffer.h:707:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbuffer.h:772:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:73:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpadtemplate.h:36:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstevent.h:221:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstformat.h:30:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstiterator.h:208:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstiterator.h:224:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:73:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpadtemplate.h:36:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstevent.h:225:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gsttaglist.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstsample.h:30:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstsegment.h:183:16: warning: not a Doxygen trailing comment [-Wdocumentation]
+typedef enum { /*< flags >*/
+               ^~~
+               /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstsegment.h:264:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:73:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpadtemplate.h:36:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstevent.h:227:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstmessage.h:191:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstquery.h:199:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public > *//* with COW */
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:73:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpadtemplate.h:36:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstevent.h:227:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstmessage.h:193:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstdevice.h:57:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstdevice.h:83:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:73:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpadtemplate.h:36:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstevent.h:227:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstmessage.h:194:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gststreams.h:90:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gststreams.h:93:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gststreams.h:96:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gststreams.h:111:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:73:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpadtemplate.h:36:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstevent.h:227:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstmessage.h:195:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gststreamcollection.h:70:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gststreamcollection.h:92:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:73:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpadtemplate.h:36:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstevent.h:227:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstmessage.h:341:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public > *//* with COW */
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstmessage.h:347:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*//* with MESSAGE_LOCK */
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:73:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpadtemplate.h:36:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstevent.h:404:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/ /* with COW */
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:73:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpadtemplate.h:38:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gsttask.h:27:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gsttaskpool.h:57:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gsttaskpool.h:76:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gsttaskpool.h:95:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gsttaskpool.h:143:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gsttaskpool.h:159:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:73:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpadtemplate.h:38:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gsttask.h:137:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/ /* with LOCK */
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gsttask.h:149:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gsttask.h:160:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gsttask.h:163:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:73:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstpadtemplate.h:139:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstpadtemplate.h:155:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:223:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:238:31: warning: empty paragraph passed to '@par' command [-Wdocumentation]
+ * @parent: the parent of @pad
+                          ~~~~^
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:251:31: warning: empty paragraph passed to '@par' command [-Wdocumentation]
+ * @parent: the parent of @pad
+                          ~~~~^
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:599:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:736:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:743:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstpad.h:818:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:224:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbus.h:118:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbus.h:154:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:226:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelementfactory.h:38:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstplugin.h:183:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:226:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstelementfactory.h:40:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gsturi.h:122:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:27:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:382:14: warning: not a Doxygen trailing comment [-Wdocumentation]
+typedef enum /*< flags=0 >*/
+             ^~~
+             /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:760:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/ /* with LOCK */
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:792:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:826:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:838:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:844:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstelement.h:878:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:35:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:137:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/ /* with LOCK */
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:154:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:179:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:202:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:236:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:240:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbin.h:263:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:38:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbufferpool.h:86:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbufferpool.h:110:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbufferpool.h:113:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbufferpool.h:128:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbufferpool.h:180:13: warning: parameter ':' not found in the function declaration [-Wdocumentation]
+   * @params: (transfer none) (nullable): parameters.
+            ^
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbufferpool.h:196:13: warning: parameter ':' not found in the function declaration [-Wdocumentation]
+   * @params: (transfer none) (nullable): parameters.
+            ^
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstbufferpool.h:268:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:41:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstchildproxy.h:88:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstchildproxy.h:111:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:47:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstdevicemonitor.h:28:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstdeviceprovider.h:144:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstdeviceprovider.h:179:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstdeviceprovider.h:182:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:47:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstdevicemonitor.h:56:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstdevicemonitor.h:74:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:54:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstghostpad.h:48:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstghostpad.h:56:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstghostpad.h:101:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstghostpad.h:109:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:55:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstinfo.h:154:16: warning: not a Doxygen trailing comment [-Wdocumentation]
+typedef enum { /*< flags >*/
+               ^~~
+               /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstinfo.h:220:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstinfo.h:338:5: warning: '@function' command should be used in a comment attached to a function declaration [-Wdocumentation]
+ * @function: function name
+   ~^~~~~~~~~~~~~~~~~~~~~~~
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:64:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gstparamspecs.h:23:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstvalue.h:517:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:65:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstpipeline.h:72:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/ /* with LOCK */
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstpipeline.h:78:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstpipeline.h:87:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:67:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstpoll.h:50:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:68:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstpreset.h:76:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:71:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstregistry.h:52:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:77:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstsystemclock.h:71:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstsystemclock.h:80:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:84:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gsttracer.h:51:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gsttracer.h:59:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:90:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstutils.h:694:53: warning: empty paragraph passed to '@date' command [-Wdocumentation]
+ * Returns: The floating point value read from @data
+                                               ~~~~~^
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstutils.h:715:53: warning: empty paragraph passed to '@date' command [-Wdocumentation]
+ * Returns: The floating point value read from @data
+                                               ~~~~~^
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstutils.h:736:70: warning: empty paragraph passed to '@date' command [-Wdocumentation]
+ * Returns: The double-precision floating point value read from @data
+                                                                ~~~~~^
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstutils.h:757:70: warning: empty paragraph passed to '@date' command [-Wdocumentation]
+ * Returns: The double-precision floating point value read from @data
+                                                                ~~~~~^
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:2:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gst.h:101:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gstmacos.h:11:49: warning: empty paragraph passed to '@arg' command [-Wdocumentation]
+ * @argc: the amount of arguments passed in @argv
+                                            ~~~~^
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:24:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstgl_fwd.h:26:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglapi.h:41:14: warning: not a Doxygen trailing comment [-Wdocumentation]
+typedef enum /*< underscore_name=gst_gl_api >*/ {
+             ^~~
+             /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:28:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglcontext.h:56:73: warning: empty paragraph passed to '@date' command [-Wdocumentation]
+ * Represents a function to run in the GL thread with @context and @data
+                                                                   ~~~~~^
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglcontext.h:94:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglcontext.h:100:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglcontext.h:103:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglcontext.h:167:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:30:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstgldebug.h:38:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstgldebug.h:48:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:31:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstgldisplay.h:110:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstgldisplay.h:115:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstgldisplay.h:131:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:33:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglformat.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video.h:32:
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/video-info.h:289:5: warning: '@interface' command should not be used in a comment attached to a non-interface declaration [-Wdocumentation]
+ * @interlace_mode: the interlace mode
+   ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/video-info.h:342:5: warning: not a Doxygen trailing comment [-Wdocumentation]
+    /*< private >*/
+    ^~~
+    /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:33:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglformat.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video.h:33:
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/video-frame.h:92:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:33:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglformat.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video.h:36:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video-scaler.h:27:
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/video-resampler.h:159:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:33:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglformat.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video.h:180:
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/colorbalancechannel.h:55:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/colorbalancechannel.h:60:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/colorbalancechannel.h:78:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:33:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglformat.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video.h:181:
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/colorbalance.h:89:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:33:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglformat.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video.h:183:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoaggregator.h:25:
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstaggregator.h:69:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstaggregator.h:98:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstaggregator.h:153:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstaggregator.h:156:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstaggregator.h:356:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:33:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglformat.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video.h:183:
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoaggregator.h:64:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoaggregator.h:177:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoaggregator.h:196:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoaggregator.h:241:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoaggregator.h:273:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoaggregator.h:303:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoaggregator.h:306:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:33:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglformat.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video.h:185:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideodecoder.h:29:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoutils.h:31:
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/video-hdr.h:72:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/video-hdr.h:114:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:33:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglformat.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video.h:185:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideodecoder.h:29:
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoutils.h:82:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoutils.h:85:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoutils.h:97:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoutils.h:259:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoutils.h:263:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoutils.h:266:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoutils.h:270:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoutils.h:282:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoutils.h:294:7: warning: not a Doxygen trailing comment [-Wdocumentation]
+      /*< private >*/
+      ^~~
+      /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:33:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglformat.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video.h:185:
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideodecoder.h:174:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideodecoder.h:177:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideodecoder.h:192:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideodecoder.h:285:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideodecoder.h:288:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideodecoder.h:361:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:33:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglformat.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video.h:186:
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoencoder.h:137:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoencoder.h:140:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoencoder.h:153:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoencoder.h:244:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoencoder.h:247:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideoencoder.h:298:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:33:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglformat.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video.h:187:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideofilter.h:24:
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstbasetransform.h:86:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstbasetransform.h:98:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstbasetransform.h:221:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstbasetransform.h:312:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:33:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglformat.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video.h:187:
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideofilter.h:53:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideofilter.h:78:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:33:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglformat.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video.h:188:
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideometa.h:314:5: warning: '@param' command used in a comment that is not attached to a function declaration [-Wdocumentation]
+ * @params: list of #GstStructure containing element-specific params for downstream,
+    ^~~~~~
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideometa.h:314:5: warning: '@param' command used in a comment that is not attached to a function declaration [-Wdocumentation]
+ * @params: list of #GstStructure containing element-specific params for downstream,
+    ^~~~~~
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:33:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglformat.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video.h:190:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideosink.h:27:
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstbasesink.h:73:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstbasesink.h:77:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/ /* with LOCK */
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstbasesink.h:82:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/ /* with PREROLL_LOCK */
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstbasesink.h:90:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/ /* with STREAM_LOCK */
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstbasesink.h:94:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/ /* with LOCK */
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstbasesink.h:102:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstbasesink.h:212:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:33:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglformat.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video.h:190:
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideosink.h:96:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideosink.h:99:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/gstvideosink.h:132:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:33:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglformat.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/video/video.h:194:
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/video-anc.h:53:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/video-anc.h:380:37: warning: empty paragraph passed to '@date' command [-Wdocumentation]
+ * @size: The size in bytes of @data
+                               ~~~~~^
+/Library/Frameworks/GStreamer.framework/Headers/gst/video/video-anc.h:380:37: warning: empty paragraph passed to '@date' command [-Wdocumentation]
+ * @size: The size in bytes of @data
+                               ~~~~~^
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:35:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglwindow.h:96:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglwindow.h:104:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglwindow.h:121:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglwindow.h:177:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:36:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglslstage.h:42:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglslstage.h:59:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:37:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglshader.h:45:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglshader.h:52:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:39:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglcolorconvert.h:47:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglcolorconvert.h:66:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglcolorconvert.h:79:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:40:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglupload.h:69:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglupload.h:84:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:41:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasememory.h:115:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasememory.h:126:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasememory.h:148:11: warning: parameter ':' not found in the function declaration [-Wdocumentation]
+ * @params: a #GstGLAllocationParams
+          ^
+ * @params: a #GstGLAllocationParams
+          ^
+          params
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasememory.h:223:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasememory.h:264:102: warning: empty paragraph passed to '@param' command [-Wdocumentation]
+ * Returns: (transfer full) (nullable): a newly allocated #GstGLBaseMemory from @allocator and @params
+                                                                                          ~~~~~~^
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasememory.h:260:11: warning: parameter ':' not found in the function declaration [-Wdocumentation]
+ * @params: the #GstGLAllocationParams to allocate the memory with
+          ^
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasememory.h:333:67: warning: '@em' command has no word arguments, expected 1 [-Wdocumentation]
+ * Destroy any resources allocated throughout the lifetime of @mem
+                                                              ~~~~^
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasememory.h:348:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasememory.h:379:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:42:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbuffer.h:83:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbuffer.h:103:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbuffer.h:116:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:43:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglmemory.h:95:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglmemory.h:100:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglmemory.h:137:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglmemory.h:217:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglmemory.h:231:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglmemory.h:234:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglmemory.h:239:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:44:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglmemorypbo.h:47:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglmemorypbo.h:101:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglmemorypbo.h:114:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:45:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglrenderbuffer.h:58:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglrenderbuffer.h:61:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglrenderbuffer.h:67:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglrenderbuffer.h:70:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglrenderbuffer.h:83:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglrenderbuffer.h:96:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglrenderbuffer.h:117:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglrenderbuffer.h:120:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglrenderbuffer.h:125:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:46:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbufferpool.h:50:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbufferpool.h:65:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:47:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglframebuffer.h:55:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglframebuffer.h:75:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:48:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasefilter.h:54:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasefilter.h:61:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasefilter.h:82:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasefilter.h:89:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:49:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasesrc.h:27:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/base/gstpushsrc.h:28:
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstbasesrc.h:79:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< protected >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstbasesrc.h:113:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstbasesrc.h:174:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstbasesrc.h:272:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:49:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasesrc.h:27:
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstpushsrc.h:50:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/base/gstpushsrc.h:91:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:49:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasesrc.h:57:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasesrc.h:68:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasesrc.h:88:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglbasesrc.h:94:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:50:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglviewconvert.h:92:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglviewconvert.h:105:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:51:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglfilter.h:67:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglfilter.h:78:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglfilter.h:112:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< public >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglfilter.h:121:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:53:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstgloverlaycompositor.h:46:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstgloverlaycompositor.h:71:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:3:
+In file included from /Library/Frameworks/GStreamer.framework/Headers/gst/gl/gl.h:54:
+/Library/Frameworks/GStreamer.framework/Headers/gst/gl/gstglquery.h:49:3: warning: not a Doxygen trailing comment [-Wdocumentation]
+  /*< private >*/
+  ^~~
+  /**<
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:9:
+/Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/select_device/select_device.cpp:132:5: warning: 'sprintf' is deprecated: This function is provided for compatibility reasons only.  Due to security concerns inherent in the design of sprintf(3), it is highly recommended that you use snprintf(3) instead. [-Wdeprecated-declarations]
+    sprintf(deviceClass, "%s/Source", deviceType);
+    ^
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:1:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.h:2:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/stdio.h:108:
+__deprecated_msg("This function is provided for compatibility reasons only.  Due to security concerns inherent in the design of sprintf(3), it is highly recommended that you use snprintf(3) instead.")
+^
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:1:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.h:1:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/stdint.h:124:
+In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stdint.h:52:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/stdint.h:52:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/sys/_types.h:32:
+        #define __deprecated_msg(_msg) __attribute__((__deprecated__(_msg)))
+                                                      ^
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:9:
+/Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/select_device/select_device.cpp:147:39: warning: ISO C++11 does not allow conversion from string literal to 'gchar *' (aka 'char *') [-Wwritable-strings]
+    DeviceInfo testSource = { .name = "test source", .testSource = TRUE };
+                                      ^
+/Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/select_device/select_device.cpp:225:105: warning: ISO C++11 does not allow conversion from string literal to 'gchar *' (aka 'char *') [-Wwritable-strings]
+GstDeviceMonitor *setup_raw_video_source_device_monitor (void) { return setup_raw_source_device_monitor("Video/Source"); }
+                                                                                          ^
+/Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/select_device/select_device.cpp:226:105: warning: ISO C++11 does not allow conversion from string literal to 'gchar *' (aka 'char *') [-Wwritable-strings]
+GstDeviceMonitor *setup_raw_audio_source_device_monitor (void) { return setup_raw_source_device_monitor("Audio/Source"); }
+                                                                                          ^
+/Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/select_device/select_device.cpp:227:88: warning: ISO C++11 does not allow conversion from string literal to 'gchar *' (aka 'char *') [-Wwritable-strings]
+GstDeviceMonitor *setup_device_monitor (void) { return setup_raw_source_device_monitor(""); }
+                                                                                       ^
+/Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/select_device/select_device.cpp:252:68: warning: ISO C++11 does not allow conversion from string literal to 'gchar *' (aka 'char *') [-Wwritable-strings]
+    DeviceInfo selectedVideoDeviceInfo = selectDevice(devicesList, "Video");
+                                                                   ^
+/Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/select_device/select_device.cpp:270:68: warning: ISO C++11 does not allow conversion from string literal to 'gchar *' (aka 'char *') [-Wwritable-strings]
+    DeviceInfo selectedVideoDeviceInfo = selectDevice(devicesList, "Audio");
+                                                                   ^
+/Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/select_device/select_device.cpp:306:33: warning: ISO C++11 does not allow conversion from string literal to 'gchar *' (aka 'char *') [-Wwritable-strings]
+    return get_source(pipeline, "Video");
+                                ^
+/Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/select_device/select_device.cpp:311:33: warning: ISO C++11 does not allow conversion from string literal to 'gchar *' (aka 'char *') [-Wwritable-strings]
+    return get_source(pipeline, "Audio");
+                                ^
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+/Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:64:14: warning: unused variable 'pipeData' [-Wunused-variable]
+        FltGstData* pipeData = (FltGstData*)data;
+                    ^
+/Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:222:56: warning: ISO C++11 does not allow conversion from string literal to 'gchar *' (aka 'char *') [-Wwritable-strings]
+    return SelectOptionsFromVector(GetAvailableDevices("Video/Source"));
+                                                       ^
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/native_binding.cpp:3:
+In file included from /Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/native_binding.cpp:9:
+/Users/beng/experiments/upwork/rhub/flutter-app/fltgst-master/app/native_binding/macos/Classes/../../src/select_device/select_device.cpp:177:1: warning: unused function 'my_bus_func' [-Wunused-function]
+my_bus_func (GstBus * bus, GstMessage * message, gpointer user_data)
+^
+359 warnings generated.
